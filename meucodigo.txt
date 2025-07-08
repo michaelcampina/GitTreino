@@ -1,3 +1,8 @@
 Olá, meu nome é Michael!
+<<<<<<< HEAD
 Escrevendo mais para treino GIT
 Vamos ver no que dá
+=======
+
+Vou escrever coisas aqui para aprender GIT.
+>>>>>>> e0528a6e05858ffa815011fb8e31b792f9392551
